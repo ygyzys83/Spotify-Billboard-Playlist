@@ -14,8 +14,8 @@ This program uses BeautifulSoup to scrape the Billboard list on a specific date 
 * https://spotipy.readthedocs.io/en/2.19.0/#ids-uris-and-urls
 * Once you have a `SPOTIPY_CLIENT_ID`, `SPOTIPY_CLIENT_SECRET`, `SPOTIPY_REDIRECT_URI`, and `SPOTIPY_USER_ID`, save these elements as environment variables: 
   * Example:
-  * <img src="https://github.com/ygyzys83/Pong-Game-Recreated/blob/main/images/pong.PNG" width="250" />
-* and edit the corresponding lines in `main.py` (lines 11-14):
+  <img src="https://github.com/ygyzys83/Spotify-Billboard-Playlist/blob/main/images/variables%201.jpg" width="250" />
+* Once environment variables are saved, edit the corresponding lines in `main.py` (lines 11-14):
   ```
   SPOTIPY_CLIENT_ID = os.environ.get("SPOTIPY_CLIENT_ID")
   SPOTIPY_CLIENT_SECRET = os.environ.get("SPOTIPY_CLIENT_SECRET")
