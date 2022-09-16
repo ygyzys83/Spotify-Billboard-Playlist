@@ -12,7 +12,7 @@ This program uses BeautifulSoup to scrape the Billboard list on a specific date 
 * Open the project in your Python IDE.
 * Install the Spotipy package and generate a `SPOTIPY_CLIENT_ID`, `SPOTIPY_CLIENT_SECRET`, `SPOTIPY_REDIRECT_URI`, and `SPOTIPY_USER_ID` to receive an authorization token to interact with Spotify's API. Instructions here:
 * https://spotipy.readthedocs.io/en/2.19.0/#ids-uris-and-urls
-* Once you have a `SPOTIPY_CLIENT_ID`, `SPOTIPY_CLIENT_SECRET`, `SPOTIPY_REDIRECT_URI`, and `SPOTIPY_USER_ID`, save these elements as environment variables: 
+* Once you have generated an authorization token and have a `SPOTIPY_CLIENT_ID`, `SPOTIPY_CLIENT_SECRET`, `SPOTIPY_REDIRECT_URI`, and `SPOTIPY_USER_ID`, save these elements as environment variables: 
   <img src="https://github.com/ygyzys83/Spotify-Billboard-Playlist/blob/main/images/variables%201.jpg" width="250" />
 * Once environment variables are saved, confirm that the corresponding variable names in `main.py` (lines 11-14) match the environment variable names:
   ```
