@@ -1,6 +1,6 @@
 # SPOTIFY BILLBOARD 100 PLAYLIST PROGRAM
 
-A simple program that scrapes the Billboard Hot 100 list from the exact historical day specified and uploads the list into the user's Spotify account as a playlist. Built with PyCharm.
+A simple program that scrapes the Billboard Hot 100 list from the exact historical date specified and uploads the list into the user's Spotify account as a playlist. Built with PyCharm.
 
 ## Description
 
